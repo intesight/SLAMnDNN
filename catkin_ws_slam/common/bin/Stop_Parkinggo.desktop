@@ -1,0 +1,13 @@
+#!/usr/bin/env xdg-open
+
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=false
+Icon[zh_CN]=/home/intesight/qt_0709/apa_qt_demo1_201807091505/radar_img/status_stop.png
+Name[zh_CN]=Stop_Parkinggo
+Exec=/home/intesight/stop_all.sh
+Comment[zh_CN]=Stop ParkingGo
+Name=Stop_Parkinggo
+Comment=Stop ParkingGo
+Icon=/home/intesight/qt_0709/apa_qt_demo1_201807091505/radar_img/status_stop.png

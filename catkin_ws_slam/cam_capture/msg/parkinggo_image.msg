@@ -1,0 +1,9 @@
+std_msgs/Header header
+sensor_msgs/Image image
+int16 coordX
+int16 coordY
+int16 coordZ
+int32 image_begin_sec
+int32 image_begin_usec
+int32 image_end_sec
+int32 image_end_usec

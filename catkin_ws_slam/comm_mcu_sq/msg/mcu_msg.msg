@@ -1,0 +1,48 @@
+comm_mcu_sq/lots_msg[] lots
+
+int8 radar1_alarm_level
+int8 radar2_alarm_level
+int8 radar3_alarm_level
+int8 radar4_alarm_level
+int8 radar5_alarm_level
+int8 radar6_alarm_level
+int8 radar7_alarm_level
+int8 radar8_alarm_level
+int8 radar9_alarm_level
+int8 radar10_alarm_level
+int8 radar11_alarm_level
+int8 radar12_alarm_level
+int8 radar13_alarm_level
+int8 radar14_alarm_level
+int8 radar15_alarm_level
+int8 radar16_alarm_level
+
+int16 parking_rect_point0_x
+int16 parking_rect_point0_y
+int16 parking_rect_point1_x
+int16 parking_rect_point1_y
+int16 parking_rect_point2_x
+int16 parking_rect_point2_y
+int16 parking_rect_point3_x
+int16 parking_rect_point3_y
+
+int16 GPS_x
+int16 GPS_y
+int16 GPS_z
+
+int8 car_parking_status
+int16[] TimeStampex
+
+int16 trail_arc_radius
+int16 trail_arc_angle
+int8  parking_mode_select01
+int8  parking_mode_select02
+int8 gear_status_actual
+int8 gear_status_pre
+int8 McuKey
+int16[] WheelSpeed
+
+int32 radar_begin_sec
+int32 radar_begin_usec
+int32 radar_end_sec
+int32 radar_end_usec

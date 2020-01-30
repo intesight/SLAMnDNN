@@ -1,0 +1,39 @@
+/opt/clion-2018.3.1/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/tangshuaishuai/intesight/calibration_tool1/calibrate/cam_opencv_calib_extrinstic
+-- The C compiler identification is GNU 5.4.0
+-- The CXX compiler identification is GNU 5.4.0
+-- Check for working C compiler: /usr/bin/cc
+-- Check for working C compiler: /usr/bin/cc -- works
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Check for working CXX compiler: /usr/bin/c++
+-- Check for working CXX compiler: /usr/bin/c++ -- works
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- OpenCV ARCH: 
+-- OpenCV RUNTIME: 
+-- OpenCV STATIC: ON
+CMake Warning at /home/tangshuaishuai/opencv-3.1.0/cmake/OpenCVConfig.cmake:166 (message):
+  Found OpenCV Windows Pack but it has no binaries compatible with your
+  configuration.
+
+  You should manually point CMake variable OpenCV_DIR to your build of OpenCV
+  library.
+Call Stack (most recent call first):
+  CMakeLists.txt:9 (find_package)
+
+
+CMake Error at CMakeLists.txt:9 (find_package):
+  Found package configuration file:
+
+    /home/tangshuaishuai/opencv-3.1.0/cmake/OpenCVConfig.cmake
+
+  but it set OpenCV_FOUND to FALSE so package "OpenCV" is considered to be
+  NOT FOUND.
+
+
+-- Configuring incomplete, errors occurred!
+See also "/home/tangshuaishuai/intesight/calibration_tool1/calibrate/cam_opencv_calib_extrinstic/cmake-build-debug/CMakeFiles/CMakeOutput.log".

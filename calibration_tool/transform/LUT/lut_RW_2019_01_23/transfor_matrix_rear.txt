@@ -1,0 +1,5 @@
+fx:184.752090  fy:239.999985  cx:420.000000  cy:249.999985  
+fxi:0.005413    fyi:0.004167    cxi:-2.273317   cyi:-1.041667   
+fov_h:120.000000  fov_v:90.000000   
+dst_width:640         dst_height:480         
+matrix_rowoffset:10          matrix_coloffset:100         

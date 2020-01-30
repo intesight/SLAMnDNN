@@ -1,0 +1,5 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="lut" type="CMakeRunConfiguration" factoryName="Application" WORKING_DIR="file://$PROJECT_DIR$" PASS_PARENT_ENVS_2="true" PROJECT_NAME="calib_model_lut" TARGET_NAME="lut" CONFIG_NAME="Debug">
+    <method />
+  </configuration>
+</component>

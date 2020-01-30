@@ -1,0 +1,4 @@
+/home/caobei/桌面/caobei/clion-2018.1.1/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/caobei/calibration_tool/calibrate/cam_opencv_calib_extrinstic
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/caobei/calibration_tool/calibrate/cam_opencv_calib_extrinstic/cmake-build-debug

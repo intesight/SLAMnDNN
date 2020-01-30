@@ -1,0 +1,604 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1efe2885-b546-4c85-863c-b085331f6493" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/../../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../transform/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cam_calib_intrinstic/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cam_calib_intrinstic/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cam_calib_intrinstic/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cam_calib_intrinstic/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../cam_calib_intrinstic/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cam_calib_intrinstic/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../cam_calib_intrinstic/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cam_calib_intrinstic/cmake-build-debug/CMakeFiles/3.10.3/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cam_calib_intrinstic/cmake-build-debug/CMakeFiles/3.10.3/CMakeCXXCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cam_calib_intrinstic/cmake-build-debug/CMakeFiles/3.10.3/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cam_calib_intrinstic/cmake-build-debug/CMakeFiles/3.10.3/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cam_calib_intrinstic/cmake-build-debug/CMakeFiles/3.10.3/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cam_calib_intrinstic/cmake-build-debug/CMakeFiles/3.10.3/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cam_calib_intrinstic/cmake-build-debug/CMakeFiles/3.10.3/CompilerIdC/a.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cam_calib_intrinstic/cmake-build-debug/CMakeFiles/3.10.3/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cam_calib_intrinstic/cmake-build-debug/CMakeFiles/3.10.3/CompilerIdCXX/a.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cam_calib_intrinstic/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../cam_calib_intrinstic/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cam_calib_intrinstic/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/../cam_calib_intrinstic/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cam_calib_intrinstic/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../cam_calib_intrinstic/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cam_calib_intrinstic/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/../cam_calib_intrinstic/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cam_calib_intrinstic/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../cam_calib_intrinstic/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cam_calib_intrinstic/cmake-build-debug/CMakeFiles/camera_calib.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/../cam_calib_intrinstic/cmake-build-debug/CMakeFiles/camera_calib.dir/CXX.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cam_calib_intrinstic/cmake-build-debug/CMakeFiles/camera_calib.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../cam_calib_intrinstic/cmake-build-debug/CMakeFiles/camera_calib.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cam_calib_intrinstic/cmake-build-debug/CMakeFiles/camera_calib.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../cam_calib_intrinstic/cmake-build-debug/CMakeFiles/camera_calib.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cam_calib_intrinstic/cmake-build-debug/CMakeFiles/camera_calib.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/../cam_calib_intrinstic/cmake-build-debug/CMakeFiles/camera_calib.dir/depend.internal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cam_calib_intrinstic/cmake-build-debug/CMakeFiles/camera_calib.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/../cam_calib_intrinstic/cmake-build-debug/CMakeFiles/camera_calib.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cam_calib_intrinstic/cmake-build-debug/CMakeFiles/camera_calib.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../cam_calib_intrinstic/cmake-build-debug/CMakeFiles/camera_calib.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cam_calib_intrinstic/cmake-build-debug/CMakeFiles/camera_calib.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../cam_calib_intrinstic/cmake-build-debug/CMakeFiles/camera_calib.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cam_calib_intrinstic/cmake-build-debug/CMakeFiles/camera_calib.dir/main.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/../cam_calib_intrinstic/cmake-build-debug/CMakeFiles/camera_calib.dir/main.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cam_calib_intrinstic/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../cam_calib_intrinstic/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cam_calib_intrinstic/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../cam_calib_intrinstic/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cam_calib_intrinstic/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../cam_calib_intrinstic/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cam_calib_intrinstic/cmake-build-debug/camera_calib" beforeDir="false" afterPath="$PROJECT_DIR$/../cam_calib_intrinstic/cmake-build-debug/camera_calib" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cam_calib_intrinstic/cmake-build-debug/camera_calib.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/../cam_calib_intrinstic/cmake-build-debug/camera_calib.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cam_calib_intrinstic/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../cam_calib_intrinstic/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.10.3/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.10.3/CMakeCXXCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.10.3/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.10.3/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.10.3/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.10.3/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.10.3/CompilerIdC/a.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.10.3/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.10.3/CompilerIdCXX/a.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/calib_extrinstic.dir/CXX.includecache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/calib_extrinstic.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/calib_extrinstic.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/calib_extrinstic.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/calib_extrinstic.dir/depend.internal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/calib_extrinstic.dir/depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/calib_extrinstic.dir/fisheye.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/calib_extrinstic.dir/flags.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/calib_extrinstic.dir/link.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/calib_extrinstic.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/calib_extrinstic.dir/readdata.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../transform/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../transform/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../transform/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../transform/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../transform/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../transform/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../transform/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../transform/LUT/lut_MG_2019_01_21/projective_front.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../transform/LUT/lut_MG_2019_01_21/projective_front.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../transform/LUT/lut_MG_2019_01_21/projective_right.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../transform/LUT/lut_MG_2019_01_21/projective_right.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../transform/XML/parameter_MG_10_31.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../transform/XML/parameter_MG_10_31.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../transform/XML/parameter_MG_2019_01_21.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../transform/XML/parameter_MG_2019_01_21.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../transform/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../transform/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../transform/cmake-build-debug/CMakeFiles/3.10.3/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../transform/cmake-build-debug/CMakeFiles/3.10.3/CMakeCXXCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../transform/cmake-build-debug/CMakeFiles/3.10.3/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../transform/cmake-build-debug/CMakeFiles/3.10.3/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../transform/cmake-build-debug/CMakeFiles/3.10.3/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../transform/cmake-build-debug/CMakeFiles/3.10.3/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../transform/cmake-build-debug/CMakeFiles/3.10.3/CompilerIdC/a.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../transform/cmake-build-debug/CMakeFiles/3.10.3/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../transform/cmake-build-debug/CMakeFiles/3.10.3/CompilerIdCXX/a.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../transform/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../transform/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../transform/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../transform/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../transform/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../transform/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../transform/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/../../transform/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../transform/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../transform/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../transform/cmake-build-debug/CMakeFiles/calib_model_lut.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/../../transform/cmake-build-debug/CMakeFiles/calib_model_lut.dir/CXX.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../transform/cmake-build-debug/CMakeFiles/calib_model_lut.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../transform/cmake-build-debug/CMakeFiles/calib_model_lut.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../transform/cmake-build-debug/CMakeFiles/calib_model_lut.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../transform/cmake-build-debug/CMakeFiles/calib_model_lut.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../transform/cmake-build-debug/CMakeFiles/calib_model_lut.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/../../transform/cmake-build-debug/CMakeFiles/calib_model_lut.dir/depend.internal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../transform/cmake-build-debug/CMakeFiles/calib_model_lut.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../transform/cmake-build-debug/CMakeFiles/calib_model_lut.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../transform/cmake-build-debug/CMakeFiles/calib_model_lut.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../transform/cmake-build-debug/CMakeFiles/calib_model_lut.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../transform/cmake-build-debug/CMakeFiles/calib_model_lut.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../transform/cmake-build-debug/CMakeFiles/calib_model_lut.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../transform/cmake-build-debug/CMakeFiles/calib_model_lut.dir/main.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/../../transform/cmake-build-debug/CMakeFiles/calib_model_lut.dir/main.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../transform/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../transform/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../transform/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../transform/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../transform/cmake-build-debug/CMakeFiles/lut.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/../../transform/cmake-build-debug/CMakeFiles/lut.dir/CXX.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../transform/cmake-build-debug/CMakeFiles/lut.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../transform/cmake-build-debug/CMakeFiles/lut.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../transform/cmake-build-debug/CMakeFiles/lut.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../transform/cmake-build-debug/CMakeFiles/lut.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../transform/cmake-build-debug/CMakeFiles/lut.dir/cam_model.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/../../transform/cmake-build-debug/CMakeFiles/lut.dir/cam_model.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../transform/cmake-build-debug/CMakeFiles/lut.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/../../transform/cmake-build-debug/CMakeFiles/lut.dir/depend.internal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../transform/cmake-build-debug/CMakeFiles/lut.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../transform/cmake-build-debug/CMakeFiles/lut.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../transform/cmake-build-debug/CMakeFiles/lut.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../transform/cmake-build-debug/CMakeFiles/lut.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../transform/cmake-build-debug/CMakeFiles/lut.dir/image_view_convert.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/../../transform/cmake-build-debug/CMakeFiles/lut.dir/image_view_convert.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../transform/cmake-build-debug/CMakeFiles/lut.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../transform/cmake-build-debug/CMakeFiles/lut.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../transform/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../../transform/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../transform/cmake-build-debug/calib_model_lut" beforeDir="false" afterPath="$PROJECT_DIR$/../../transform/cmake-build-debug/calib_model_lut" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../transform/cmake-build-debug/calib_model_lut.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/../../transform/cmake-build-debug/calib_model_lut.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../transform/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../transform/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../transform/cmake-build-debug/liblut.so" beforeDir="false" afterPath="$PROJECT_DIR$/../../transform/cmake-build-debug/liblut.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../transform/image_view_convert.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../transform/image_view_convert.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../transform/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../transform/main.cpp" afterDir="false" />
+    </list>
+    <ignored path="cam_opencv_calib_extrinstic_robin.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="cam_opencv_calib_extrinstic_robin" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/output/totalAvgErr">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/output/result">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="36">
+              <caret line="2" column="3" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/output/trans">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="2" selection-end-column="60" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/fisheye.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="385">
+              <caret line="873" lean-forward="true" selection-start-line="873" selection-end-line="873" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/readdata.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="814">
+              <caret line="339" column="31" selection-start-line="339" selection-start-column="31" selection-end-line="339" selection-end-column="31" />
+              <folding>
+                <element signature="e#3202#3776#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/fisheye.hpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="288">
+              <caret line="16" column="65" lean-forward="true" selection-start-line="16" selection-start-column="65" selection-end-line="16" selection-end-column="65" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="12" column="52" selection-start-line="12" selection-start-column="45" selection-end-line="12" selection-end-column="52" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>fp_trans</find>
+      <find>trans</find>
+      <find>tvecsm</find>
+      <find>cvFindHomography</find>
+      <find>infilex</find>
+      <find>rvecsm2rmatrix</find>
+      <find>Homography</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/readdata.cpp" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/MG/Intersic_Parameters/ocam_intrinsic_MG_back.txt" />
+        <option value="$PROJECT_DIR$/MG/Intersic_Parameters/distortiion_coefficients_MG_back.txt" />
+        <option value="$PROJECT_DIR$/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/fisheye.hpp" />
+        <option value="$PROJECT_DIR$/precomp.hpp" />
+        <option value="$PROJECT_DIR$/output/trans" />
+        <option value="$PROJECT_DIR$/MG_08_21/Intersic_Parameters/ocam_intrinsic_MG_left.txt" />
+        <option value="$PROJECT_DIR$/MG_08_21/Intersic_Parameters/distortiion_coefficients_MG_left.txt" />
+        <option value="$PROJECT_DIR$/fisheye.cpp" />
+        <option value="$PROJECT_DIR$/readdata.cpp" />
+      </list>
+    </option>
+  </component>
+  <component name="OCFindUsagesOptions" text="true" ivars="false" properties="true" derivedClasses="false" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="65" />
+    <option name="y" value="6" />
+    <option name="width" value="1855" />
+    <option name="height" value="940" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="readdata" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cam_opencv_calib_extrinstic" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="readdata" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cam_opencv_calib_extrinstic" type="462c0819:PsiDirectoryNode" />
+              <item name="标定文档及工具" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../cam_calib_intrinstic" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.completion" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/MG/output_data/front/2/fix" />
+      <recent name="$PROJECT_DIR$/MG/output_data/front/2/no_fix" />
+      <recent name="$PROJECT_DIR$/MG/output_data/front/1" />
+      <recent name="$PROJECT_DIR$/MG/output_data/left/2/fix" />
+      <recent name="$PROJECT_DIR$/MG/output_data/left/2/no_fix" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/MG/output_data/back" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Build All">
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="cam_opencv_calib_extrinstic_robin" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" PASS_PARENT_ENVS_2="true" PROJECT_NAME="readdata" TARGET_NAME="calib_extrinstic" CONFIG_NAME="Debug" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Build All" type="CMakeRunConfiguration" factoryName="Application" WORKING_DIR="file://$PROJECT_DIR$" PASS_PARENT_ENVS_2="true" PROJECT_NAME="readdata" TARGET_NAME="calib_extrinstic" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="readdata" RUN_TARGET_NAME="calib_extrinstic">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="readdata" TARGET_NAME="calib_extrinstic" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="calib_extrinstic" type="CMakeRunConfiguration" factoryName="Application" WORKING_DIR="file://$PROJECT_DIR$" PASS_PARENT_ENVS_2="true" PROJECT_NAME="readdata" TARGET_NAME="calib_extrinstic" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="readdata" RUN_TARGET_NAME="calib_extrinstic">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.Build All" />
+      <item itemvalue="Application.calib_extrinstic" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1efe2885-b546-4c85-863c-b085331f6493" name="Default" comment="" />
+      <created>1528176782848</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1528176782848</updated>
+      <workItem from="1528176784217" duration="3135000" />
+      <workItem from="1528182503484" duration="51000" />
+      <workItem from="1528182879689" duration="9527000" />
+      <workItem from="1528197330240" duration="77263000" />
+      <workItem from="1528678769038" duration="8988000" />
+      <workItem from="1529046964498" duration="17024000" />
+      <workItem from="1529487648827" duration="6716000" />
+      <workItem from="1529546052446" duration="678000" />
+      <workItem from="1529547857736" duration="5772000" />
+      <workItem from="1529574813667" duration="657000" />
+      <workItem from="1529575629266" duration="1904000" />
+      <workItem from="1529747228322" duration="986000" />
+      <workItem from="1529898846017" duration="60000" />
+      <workItem from="1529904223539" duration="36595000" />
+      <workItem from="1535357001689" duration="13123000" />
+      <workItem from="1535956582986" duration="3408000" />
+      <workItem from="1535960796893" duration="1028000" />
+      <workItem from="1537326536205" duration="1910000" />
+      <workItem from="1537340306236" duration="2465000" />
+      <workItem from="1540346239071" duration="1424000" />
+      <workItem from="1540349195323" duration="1215000" />
+      <workItem from="1540967277546" duration="4655000" />
+      <workItem from="1543972341358" duration="7781000" />
+      <workItem from="1544151753618" duration="1185000" />
+      <workItem from="1546673594008" duration="70000" />
+      <workItem from="1546674025602" duration="4399000" />
+      <workItem from="1547792380386" duration="1292000" />
+      <workItem from="1548039390636" duration="3969000" />
+      <workItem from="1548230619334" duration="5657000" />
+      <workItem from="1548379073175" duration="913000" />
+      <workItem from="1548380345387" duration="273000" />
+      <workItem from="1551952917537" duration="6624000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="230791000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="65" y="24" width="1855" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25262576" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="CMake" order="10" weight="0.32964602" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25290537" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="0" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Find" order="2" />
+      <window_info anchor="bottom" id="Run" order="3" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="7" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="CMake" order="11" visible="true" weight="0.32964602" />
+      <window_info anchor="right" id="Database" order="0" />
+      <window_info anchor="right" id="Commander" order="1" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file:///usr/local/include/opencv2/calib3d.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="572">
+          <caret line="560" column="37" selection-start-line="560" selection-start-column="37" selection-end-line="560" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MG/IMAGE/back.bmp" />
+    <entry file="file://$PROJECT_DIR$/MG/output_data/back/optimized_D" />
+    <entry file="file://$PROJECT_DIR$/MG/output_data/front/1/fix/result" />
+    <entry file="file://$PROJECT_DIR$/MG/output_data/back/result" />
+    <entry file="file://$PROJECT_DIR$/MG/output_data/left/2/no_fix/result" />
+    <entry file="file://$PROJECT_DIR$/MG/output_data/left/2/fix/result" />
+    <entry file="file://$PROJECT_DIR$/MG/output_data/left/1/no_fix/result" />
+    <entry file="file://$PROJECT_DIR$/MG/output_data/left/1/fix/result" />
+    <entry file="file://$PROJECT_DIR$/MG/output_data/left/2/fix/totalAvgErr" />
+    <entry file="file://$PROJECT_DIR$/MG/output_data/left/2/no_fix/totalAvgErr" />
+    <entry file="file://$PROJECT_DIR$/output/optimized_K">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="45" selection-start-line="2" selection-start-column="45" selection-end-line="2" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output/optimized_D">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MG_08_21/Intersic_Parameters/ocam_intrinsic_MG_front.txt" />
+    <entry file="file://$PROJECT_DIR$/MG_08_21/Intersic_Parameters/distortiion_coefficients_MG_left.txt" />
+    <entry file="file://$PROJECT_DIR$/MG_08_21/Intersic_Parameters/ocam_intrinsic_MG_left.txt" />
+    <entry file="file://$PROJECT_DIR$/MG_08_21/front/output/trans" />
+    <entry file="file://$PROJECT_DIR$/MG_08_21/back/output/trans" />
+    <entry file="file://$PROJECT_DIR$/MG_08_21/left/output/trans" />
+    <entry file="file://$PROJECT_DIR$/MG_08_21/right/output/trans" />
+    <entry file="file://$PROJECT_DIR$/MG_08_21/src_data/world_y_back.txt" />
+    <entry file="file://$PROJECT_DIR$/MG_08_21/src_data/world_y_front.txt" />
+    <entry file="file://$PROJECT_DIR$/MG_08_21/group1/y.txt" />
+    <entry file="file://$PROJECT_DIR$/MG_08_21/group1/get_image_pixel_coordinate.py" />
+    <entry file="file://$PROJECT_DIR$/MG_08_21/src_data/world_x_left.txt" />
+    <entry file="file://$PROJECT_DIR$/MG_08_21/src_data/world_x_right.txt" />
+    <entry file="file://$PROJECT_DIR$/MG_08_21/src_data/world_y_right.txt" />
+    <entry file="file://$PROJECT_DIR$/MG_08_21/group1/MG_front_x.txt" />
+    <entry file="file://$PROJECT_DIR$/MG_08_21/group1/front.bmp" />
+    <entry file="file://$PROJECT_DIR$/MG_08_21/src_data/world_x_front.txt" />
+    <entry file="file://$PROJECT_DIR$/MG_08_21/group1/right.bmp" />
+    <entry file="file://$PROJECT_DIR$/MG_08_21/group1/x.txt" />
+    <entry file="file://$PROJECT_DIR$/标定文档及工具/get_image_pixel_coordinate.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="22" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/precomp.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-344">
+          <caret line="53" column="30" selection-start-line="53" selection-start-column="30" selection-end-line="53" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/core/mat.hpp" />
+    <entry file="file:///opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/core/base.hpp" />
+    <entry file="file:///usr/include/c++/5/bits/stl_vector.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="252" column="6" selection-start-line="252" selection-start-column="6" selection-end-line="252" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/c++/5/iosfwd">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="161" column="36" selection-start-line="161" selection-start-column="36" selection-end-line="161" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/c++/5/fstream">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="480" column="6" selection-start-line="480" selection-start-column="6" selection-end-line="480" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///opt/ros/kinetic/include/opencv-3.3.1-dev/opencv2/calib3d.hpp" />
+    <entry file="file://$PROJECT_DIR$/SQRW_pic/front/get_image_pixel_coordinate.py" />
+    <entry file="file://$PROJECT_DIR$/output/totalAvgErr">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output/result">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="3" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output/trans">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="2" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="52" selection-start-line="12" selection-start-column="45" selection-end-line="12" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fisheye.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="385">
+          <caret line="873" lean-forward="true" selection-start-line="873" selection-end-line="873" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/readdata.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="814">
+          <caret line="339" column="31" selection-start-line="339" selection-start-column="31" selection-end-line="339" selection-end-column="31" />
+          <folding>
+            <element signature="e#3202#3776#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fisheye.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="16" column="65" lean-forward="true" selection-start-line="16" selection-start-column="65" selection-end-line="16" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

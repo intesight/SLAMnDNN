@@ -1,0 +1,17 @@
+//
+// Created by chengguoqiang on 18-5-16.
+//
+
+#ifndef CALIB_MODEL_LUT_COMMON_PARKINGGO_H
+#define CALIB_MODEL_LUT_COMMON_PARKINGGO_H
+
+#define IN
+#define OUT
+#define INOUT
+
+#define PI  (3.14159265358979323846264338327950288)
+
+#define ZERO_UPPER_LIMIT (1e-06)
+#define ZERO_LOWER_LIMIT (-1e-06)
+
+#endif //CALIB_MODEL_LUT_COMMON_PARKINGGO_H

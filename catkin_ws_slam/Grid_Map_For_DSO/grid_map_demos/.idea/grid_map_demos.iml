@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="CPP_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/scripts/image_publisher.py" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/package.xml" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/simple_demo_node.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/OctomapToGridmapDemo.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/resolution_change_demo_node.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/tutorial_demo_node.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/octomap_to_gridmap_demo_node.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/iterators_demo_node.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/IteratorsDemo.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/filters_demo_node.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/image_to_gridmap_demo_node.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/opencv_demo_node.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/move_demo_node.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/ImageToGridmapDemo.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/iterator_benchmark.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/FiltersDemo.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/simple_DSO_demo.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/thirdparty/Sophus/FindEigen3.cmake" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/thirdparty/Sophus/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/thirdparty/Sophus/SophusConfig.cmake.in" isTestSource="false" />
+    </content>
+    <content url="file:///usr/src/gmock">
+      <sourceFolder url="file:///usr/src/gmock/src/gmock-all.cc" isTestSource="false" />
+      <sourceFolder url="file:///usr/src/gmock/src/gmock_main.cc" isTestSource="false" />
+      <sourceFolder url="file:///usr/src/gmock/CMakeLists.txt" isTestSource="false" />
+    </content>
+    <content url="file:///usr/src/gtest">
+      <sourceFolder url="file:///usr/src/gtest/src/gtest_main.cc" isTestSource="false" />
+      <sourceFolder url="file:///usr/src/gtest/src/gtest-all.cc" isTestSource="false" />
+      <sourceFolder url="file:///usr/src/gtest/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file:///usr/src/gtest/cmake/internal_utils.cmake" isTestSource="false" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library name="Header Search Paths">
+        <CLASSES>
+          <root url="file:///usr/lib/gcc/x86_64-linux-gnu/5/include-fixed" />
+          <root url="file:///usr/lib/gcc/x86_64-linux-gnu/5/include" />
+          <root url="file:///usr/include" />
+          <root url="file:///usr/local/include" />
+          <root url="file:///opt/ros/kinetic/include" />
+          <root url="file://$MODULE_DIR$/../grid_map_filters/include" />
+          <root url="file://$MODULE_DIR$/../grid_map_core/include" />
+          <root url="file://$MODULE_DIR$/../grid_map_loader/include" />
+          <root url="file://$MODULE_DIR$/../grid_map_visualization/include" />
+          <root url="file://$MODULE_DIR$/../grid_map_rviz_plugin/include" />
+          <root url="file://$MODULE_DIR$/../grid_map_ros/include" />
+          <root url="file://$MODULE_DIR$/../grid_map_octomap/include" />
+          <root url="file://$MODULE_DIR$/../grid_map_cv/include" />
+          <root url="file://$MODULE_DIR$/../../../devel/include" />
+        </CLASSES>
+        <SOURCES>
+          <root url="file:///usr/lib/gcc/x86_64-linux-gnu/5/include-fixed" />
+          <root url="file:///usr/lib/gcc/x86_64-linux-gnu/5/include" />
+          <root url="file:///usr/include" />
+          <root url="file:///usr/local/include" />
+          <root url="file:///opt/ros/kinetic/include" />
+          <root url="file://$MODULE_DIR$/../grid_map_filters/include" />
+          <root url="file://$MODULE_DIR$/../grid_map_core/include" />
+          <root url="file://$MODULE_DIR$/../grid_map_loader/include" />
+          <root url="file://$MODULE_DIR$/../grid_map_visualization/include" />
+          <root url="file://$MODULE_DIR$/../grid_map_rviz_plugin/include" />
+          <root url="file://$MODULE_DIR$/../grid_map_ros/include" />
+          <root url="file://$MODULE_DIR$/../grid_map_octomap/include" />
+          <root url="file://$MODULE_DIR$/../grid_map_cv/include" />
+          <root url="file://$MODULE_DIR$/../../../devel/include" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+  </component>
+</module>

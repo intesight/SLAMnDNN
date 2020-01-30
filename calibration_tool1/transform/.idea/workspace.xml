@@ -1,0 +1,834 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="calib_model_lut" targetName="lut" />
+      <config projectName="calib_model_lut" targetName="calib_model_lut" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="26634130-ac42-4620-a9a8-13a9e4fb9b6d" name="Default" comment="" />
+    <ignored path="transform.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="FavoritesManager">
+    <favorites_list name="transform" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/image_view_convert.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-2561">
+              <caret line="173" column="29" lean-forward="true" selection-start-line="173" selection-start-column="29" selection-end-line="173" selection-end-column="29" />
+              <folding>
+                <element signature="e#85#116#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/XML/parameter_GL8.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="432">
+              <caret line="24" column="18" selection-start-line="24" selection-start-column="18" selection-end-line="24" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cam_model.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="810">
+              <caret line="45" column="26" selection-start-line="45" selection-start-column="12" selection-end-line="45" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/common_parkinggo.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/XML/parameter_MG_10_31.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="522">
+              <caret line="29" column="10" selection-start-line="29" selection-start-column="10" selection-end-line="29" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/XML/parameter_MG_12_06.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2898">
+              <caret line="161" selection-start-line="161" selection-end-line="161" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/image_view_convert.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="234">
+              <caret line="13" selection-start-line="13" selection-end-line="16" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>birdview_file_name</find>
+      <find>cam_z_init</find>
+      <find>undistort_plane_image</find>
+      <find>tan_h</find>
+      <find>image_size</find>
+      <find>cy</find>
+      <find>lutTable_generate_stitchFusion</find>
+      <find>birdview_front.bin</find>
+      <find>load_cam</find>
+      <find>undistort_cylinder_image</find>
+      <find>load_cam_extrinstic</find>
+      <find>birdview_front</find>
+      <find>birdview_image_stitch</find>
+      <find>birdviewpoint2rawpixel</find>
+      <find>undistort_image</find>
+      <find>fp_lut</find>
+      <find>matrix_rowoffset</find>
+      <find>run_dir</find>
+      <find>front_image</find>
+      <find>it is ok</find>
+      <find>get_parameter</find>
+      <find>front</find>
+      <find>str</find>
+      <find>cam2pixel</find>
+      <find>birdview_image_generate</find>
+      <find>imagepixel_bilinear_generate</find>
+      <find>cam2pix</find>
+      <find>bilinear_interpolation</find>
+      <find>poly_k1</find>
+      <find>front_matrix_rowoffset</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/lut/right_projective_point.txt" />
+        <option value="$PROJECT_DIR$/parameter_gai.xml" />
+        <option value="$PROJECT_DIR$/parameter.xml" />
+        <option value="$PROJECT_DIR$/camera_model.h" />
+        <option value="$PROJECT_DIR$/COMM/thirdparty/opencv/opencv.h" />
+        <option value="$PROJECT_DIR$/eol_config.h" />
+        <option value="$PROJECT_DIR$/COMM/reuse/reuse.h" />
+        <option value="$PROJECT_DIR$/libriay/COMM/camera_model/camera_model.cpp" />
+        <option value="$PROJECT_DIR$/image_process.h" />
+        <option value="$PROJECT_DIR$/levmarqt_minimizer.cpp" />
+        <option value="$PROJECT_DIR$/parameter_GL8.xml" />
+        <option value="$PROJECT_DIR$/parameter_MG_new.xml" />
+        <option value="$PROJECT_DIR$/parameter_MG_old.xml" />
+        <option value="$PROJECT_DIR$/data_x.txt" />
+        <option value="$PROJECT_DIR$/data_y.txt" />
+        <option value="$PROJECT_DIR$/build/build.sh" />
+        <option value="$PROJECT_DIR$/parameter_GL8_08_23.xml" />
+        <option value="$PROJECT_DIR$/parameter_MG_10_31.xml" />
+        <option value="$PROJECT_DIR$/parameter_MG_10_23.xml" />
+        <option value="$PROJECT_DIR$/lut_MG_10_31/birdview_size.txt" />
+        <option value="$PROJECT_DIR$/lut_MG_10_23/birdview_size.txt" />
+        <option value="$PROJECT_DIR$/lut_MG/birdview_size.txt" />
+        <option value="$PROJECT_DIR$/lut_GL8/birdview_size.txt" />
+        <option value="$PROJECT_DIR$/lut_MG_10_31_40/birdview_size.txt" />
+        <option value="$PROJECT_DIR$/lut_MG_918/birdview_size.txt" />
+        <option value="$PROJECT_DIR$/lut_MG_918/transfor_matrix.txt" />
+        <option value="$PROJECT_DIR$/parameter_MG_09_18.xml" />
+        <option value="$PROJECT_DIR$/cam_model.h" />
+        <option value="$PROJECT_DIR$/parameter_MG_08_21.xml" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/XML/parameter_MG_12_06_old.xml" />
+        <option value="$PROJECT_DIR$/XML/parameter_JSDX_T700.xml" />
+        <option value="$PROJECT_DIR$/XML/parameter_GL8.xml" />
+        <option value="$PROJECT_DIR$/XML/parameter_GL8_08_23.xml" />
+        <option value="$PROJECT_DIR$/XML/parameter_MG_08_21.xml" />
+        <option value="$PROJECT_DIR$/XML/parameter_MG_09_18.xml" />
+        <option value="$PROJECT_DIR$/XML/parameter_MG_10_23.xml" />
+        <option value="$PROJECT_DIR$/XML/parameter_MG_12_06.xml" />
+        <option value="$PROJECT_DIR$/XML/parameter_MG_new.xml" />
+        <option value="$PROJECT_DIR$/XML/parameter_MG_old.xml" />
+        <option value="$PROJECT_DIR$/XML/parameter_SQRW.xml" />
+        <option value="$PROJECT_DIR$/XML/parameter_MG_2019_01_21.xml" />
+        <option value="$PROJECT_DIR$/image_view_convert.h" />
+        <option value="$PROJECT_DIR$/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/XML/parameter_MG_10_31.xml" />
+        <option value="$PROJECT_DIR$/cam_model.cpp" />
+        <option value="$PROJECT_DIR$/XML/parameter_MG_2019_03_23.xml" />
+        <option value="$PROJECT_DIR$/XML/parameter_SQRW_2019_01_23.xml" />
+        <option value="$PROJECT_DIR$/main.cpp" />
+        <option value="$PROJECT_DIR$/image_view_convert.cpp" />
+      </list>
+    </option>
+  </component>
+  <component name="OCFindUsagesOptions" text="false" ivars="false" properties="true" derivedClasses="false" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="67" />
+    <option name="y" value="24" />
+    <option name="width" value="1853" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="calib_model_lut" type="b2602c69:ProjectViewProjectNode" />
+              <item name="transform" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="calib_model_lut" type="b2602c69:ProjectViewProjectNode" />
+              <item name="transform" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="calib_model_lut" type="b2602c69:ProjectViewProjectNode" />
+              <item name="transform" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+              <item name="x86_64" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="calib_model_lut" type="b2602c69:ProjectViewProjectNode" />
+              <item name="transform" type="462c0819:PsiDirectoryNode" />
+              <item name="XML" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Pro_Intesight/clion_project/workspace" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/GL8_TEST_IMAGE" />
+      <recent name="$PROJECT_DIR$/libriay" />
+      <recent name="$PROJECT_DIR$/GL8_IMAGE" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Build All">
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="transform" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" PASS_PARENT_ENVS_2="true" PROJECT_NAME="calib_model_lut" TARGET_NAME="calib_model_lut" CONFIG_NAME="Debug" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Build All" type="CMakeRunConfiguration" factoryName="Application" WORKING_DIR="file://$PROJECT_DIR$" PASS_PARENT_ENVS_2="true" PROJECT_NAME="calib_model_lut" TARGET_NAME="calib_model_lut" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="calib_model_lut" RUN_TARGET_NAME="calib_model_lut">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="calib_model_lut" TARGET_NAME="calib_model_lut" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="calib_model_lut" type="CMakeRunConfiguration" factoryName="Application" WORKING_DIR="file://$PROJECT_DIR$" PASS_PARENT_ENVS_2="true" PROJECT_NAME="calib_model_lut" TARGET_NAME="calib_model_lut" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="calib_model_lut" RUN_TARGET_NAME="calib_model_lut">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.Build All" />
+      <item itemvalue="Application.calib_model_lut" />
+      <item itemvalue="Application.lut" />
+    </list>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",ALPHA_COMPARATOR" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="26634130-ac42-4620-a9a8-13a9e4fb9b6d" name="Default" comment="" />
+      <created>1530683674308</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1530683674308</updated>
+      <workItem from="1530683678150" duration="186000" />
+      <workItem from="1530683886514" duration="38653000" />
+      <workItem from="1530866465138" duration="4243000" />
+      <workItem from="1531274493854" duration="96000" />
+      <workItem from="1531298995760" duration="800000" />
+      <workItem from="1531366587603" duration="10446000" />
+      <workItem from="1531391687565" duration="11822000" />
+      <workItem from="1531722288256" duration="3662000" />
+      <workItem from="1531875664088" duration="1979000" />
+      <workItem from="1532140161537" duration="1308000" />
+      <workItem from="1532156904159" duration="599000" />
+      <workItem from="1532395136001" duration="14000" />
+      <workItem from="1532404405664" duration="22774000" />
+      <workItem from="1533001419253" duration="33710000" />
+      <workItem from="1533279192427" duration="1010000" />
+      <workItem from="1533283905630" duration="7907000" />
+      <workItem from="1533533954947" duration="71414000" />
+      <workItem from="1533786216592" duration="22186000" />
+      <workItem from="1535361160521" duration="43844000" />
+      <workItem from="1535527937152" duration="671000" />
+      <workItem from="1535676929715" duration="412000" />
+      <workItem from="1535680047214" duration="327000" />
+      <workItem from="1535683658028" duration="2347000" />
+      <workItem from="1535710099246" duration="2005000" />
+      <workItem from="1535960277213" duration="519000" />
+      <workItem from="1535961826162" duration="74533000" />
+      <workItem from="1536311186733" duration="13170000" />
+      <workItem from="1536809009863" duration="456000" />
+      <workItem from="1536811405397" duration="2410000" />
+      <workItem from="1536897196916" duration="1762000" />
+      <workItem from="1536903860781" duration="41456000" />
+      <workItem from="1537254107650" duration="2023000" />
+      <workItem from="1537259279773" duration="108000" />
+      <workItem from="1537261849742" duration="150000" />
+      <workItem from="1537337585010" duration="6882000" />
+      <workItem from="1537345349215" duration="1227000" />
+      <workItem from="1539598089521" duration="3129000" />
+      <workItem from="1539601567799" duration="24000" />
+      <workItem from="1539669409612" duration="18533000" />
+      <workItem from="1539827620614" duration="1325000" />
+      <workItem from="1540177017055" duration="1469000" />
+      <workItem from="1540262921674" duration="720000" />
+      <workItem from="1540265643422" duration="621000" />
+      <workItem from="1540348258795" duration="4453000" />
+      <workItem from="1540455160358" duration="4026000" />
+      <workItem from="1540525636383" duration="276000" />
+      <workItem from="1540541764043" duration="172000" />
+      <workItem from="1540543337825" duration="3770000" />
+      <workItem from="1540779827291" duration="1264000" />
+      <workItem from="1540781803103" duration="3210000" />
+      <workItem from="1540791894868" duration="12897000" />
+      <workItem from="1540980044630" duration="64000" />
+      <workItem from="1541120894257" duration="251000" />
+      <workItem from="1541121321873" duration="3368000" />
+      <workItem from="1541145818295" duration="15012000" />
+      <workItem from="1541989189147" duration="2030000" />
+      <workItem from="1541992080513" duration="976000" />
+      <workItem from="1542077894833" duration="137000" />
+      <workItem from="1542192705101" duration="6458000" />
+      <workItem from="1542261698759" duration="1526000" />
+      <workItem from="1542331767817" duration="5663000" />
+      <workItem from="1542594329461" duration="11728000" />
+      <workItem from="1542681663104" duration="1552000" />
+      <workItem from="1542710659463" duration="878000" />
+      <workItem from="1542779165261" duration="40224000" />
+      <workItem from="1543196444052" duration="4993000" />
+      <workItem from="1543219602667" duration="7758000" />
+      <workItem from="1543384088080" duration="1339000" />
+      <workItem from="1543802639565" duration="63658000" />
+      <workItem from="1544082752615" duration="13649000" />
+      <workItem from="1544405438555" duration="58000" />
+      <workItem from="1544406105257" duration="11415000" />
+      <workItem from="1544427916854" duration="45133000" />
+      <workItem from="1545013838181" duration="53911000" />
+      <workItem from="1545284496040" duration="96614000" />
+      <workItem from="1546046638989" duration="13806000" />
+      <workItem from="1546391332609" duration="56449000" />
+      <workItem from="1546937605124" duration="77166000" />
+      <workItem from="1547446555711" duration="2906000" />
+      <workItem from="1547782819789" duration="168000" />
+      <workItem from="1548041927248" duration="8747000" />
+      <workItem from="1548205730270" duration="2526000" />
+      <workItem from="1548209100681" duration="785000" />
+      <workItem from="1548394193073" duration="1253000" />
+      <workItem from="1548645690692" duration="28485000" />
+      <workItem from="1548827773813" duration="1827000" />
+      <workItem from="1550116522241" duration="2991000" />
+      <workItem from="1550652159791" duration="11302000" />
+      <workItem from="1551057113842" duration="1882000" />
+      <workItem from="1551144506507" duration="1536000" />
+      <workItem from="1551757669355" duration="2146000" />
+      <workItem from="1551943926289" duration="3331000" />
+      <workItem from="1552875644069" duration="1962000" />
+      <workItem from="1552878182513" duration="1000" />
+      <workItem from="1552878218469" duration="7595000" />
+      <workItem from="1553056154426" duration="6945000" />
+      <workItem from="1553149091504" duration="1739000" />
+      <workItem from="1553303453327" duration="5404000" />
+      <workItem from="1553321876986" duration="21000" />
+      <workItem from="1553502856679" duration="9140000" />
+      <workItem from="1553648836377" duration="6186000" />
+      <workItem from="1554112495422" duration="5774000" />
+      <workItem from="1554860551353" duration="592000" />
+      <workItem from="1555040383294" duration="8067000" />
+      <workItem from="1555291859448" duration="6211000" />
+      <workItem from="1555638121851" duration="5171000" />
+      <workItem from="1556072312221" duration="1968000" />
+      <workItem from="1556434846140" duration="677000" />
+      <workItem from="1557042265014" duration="1813000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1157967000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="65" y="-4" width="1855" height="1084" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26147044" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="0" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Find" order="2" />
+      <window_info anchor="bottom" id="Run" order="3" visible="true" weight="0.29291844" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.39806867" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="7" weight="0.32939914" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.32939914" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32725322" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32939914" />
+      <window_info anchor="bottom" id="CMake" order="12" weight="0.32939914" />
+      <window_info anchor="right" id="Database" order="0" />
+      <window_info anchor="right" id="Commander" order="1" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23161969" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="0" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Find" order="2" />
+      <window_info anchor="bottom" id="Run" order="3" visible="true" weight="0.32832617" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.39806867" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="7" weight="0.32939914" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.32939914" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32725322" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32939914" />
+      <window_info anchor="bottom" id="CMake" order="12" weight="0.32939914" />
+      <window_info anchor="right" id="Database" order="0" />
+      <window_info anchor="right" id="Commander" order="1" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/image_view_convert.cpp</url>
+          <line>905</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file:///usr/local/include/opencv2/core.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="524" column="69" selection-start-line="524" selection-start-column="69" selection-end-line="524" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/stdint.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="49" column="19" selection-start-line="49" selection-start-column="19" selection-end-line="49" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/include/opencv2/core/types_c.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="77" column="33" selection-start-line="77" selection-start-column="33" selection-end-line="77" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/include/opencv2/core/core_c.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="2583" column="46" selection-start-line="2583" selection-start-column="46" selection-end-line="2583" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/include/opencv2/core/mat.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="1912" selection-start-line="1912" selection-end-line="1912" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LUT/lut_MG_10_23/birdview_size.txt" />
+    <entry file="file:///wangjiangjin/opencv/opencv/modules/core/src/matrix.cpp" />
+    <entry file="file:///usr/include/c++/5/cmath">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="1709" selection-start-line="1709" selection-end-line="1709" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///wangjiangjin/opencv/opencv/modules/core/src/persistence.cpp" />
+    <entry file="file://$PROJECT_DIR$/str00.jpg" />
+    <entry file="file://$PROJECT_DIR$/str.jpg" />
+    <entry file="file://$PROJECT_DIR$/LUT/lut_RW_11_15/birdview_size.txt" />
+    <entry file="file:///usr/include/c++/5/bits/basic_string.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="302">
+          <caret line="4825" selection-start-line="4825" selection-end-line="4825" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/include/opencv2/core/cvstd.inl.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="82" selection-start-line="82" selection-end-line="82" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/include/opencv2/core/cvstd.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="667" selection-start-line="667" selection-end-line="667" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/include/opencv2/core/matx.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="1057" selection-start-line="1057" selection-end-line="1057" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/include/opencv2/core/mat.inl.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="268">
+          <caret line="394" selection-start-line="394" selection-end-line="394" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="84" column="40" selection-start-line="10" selection-end-line="95" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/XML/parameter_MG_12_06_old.xml" />
+    <entry file="file://$USER_HOME$/opencv/opencv/modules/core/src/persistence.cpp" />
+    <entry file="file://$PROJECT_DIR$/XML/parameter_JSDX_T700.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2363">
+          <caret line="139" selection-start-line="139" selection-end-line="150" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/XML/parameter_MG_08_21.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2176">
+          <caret line="128" column="17" selection-start-line="128" selection-start-column="17" selection-end-line="139" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/XML/parameter_MG_09_18.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2159">
+          <caret line="127" selection-start-line="127" selection-end-line="138" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/XML/parameter_MG_new.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2108">
+          <caret line="124" column="6" selection-start-line="124" selection-start-column="6" selection-end-line="135" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/XML/parameter_MG_old.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2108">
+          <caret line="124" column="10" selection-start-line="124" selection-start-column="10" selection-end-line="135" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/XML/parameter_SQRW.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="140" column="51" selection-start-line="140" selection-start-column="29" selection-end-line="140" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/XML/parameter_MG_10_23.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="343">
+          <caret line="139" column="18" selection-start-line="139" selection-start-column="18" selection-end-line="139" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/XML/parameter_GL8_08_23.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="146" column="17" selection-start-line="146" selection-start-column="17" selection-end-line="157" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/include/opencv2/core/types.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="685">
+          <caret line="408" column="15" selection-start-line="408" selection-start-column="15" selection-end-line="408" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/XML/parameter_MG_2019_01_21.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="18" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/opencv-3.1.0/include/opencv2/opencv.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="972">
+          <caret line="54" column="18" selection-start-line="54" selection-start-column="18" selection-end-line="54" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/x86_64-linux-gnu/bits/mathcalls.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1188">
+          <caret line="66" column="34" selection-start-line="66" selection-start-column="34" selection-end-line="66" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IMAGE/RW_IMAGE_2019_01_23/left.bmp">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IMAGE/RW_IMAGE_2019_01_23/right.bmp">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IMAGE/RW_IMAGE_2019_01_23/back.bmp">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IMAGE/RW_IMAGE_2019_01_23/front.bmp">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" selection-start-line="12" selection-end-line="14" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LUT/lut_MG_2019_01_21/birdview_size.txt" />
+    <entry file="file://$PROJECT_DIR$/cam_model.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="19" column="2" selection-start-line="19" selection-start-column="2" selection-end-line="19" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="648">
+          <caret line="36" column="55" selection-start-line="36" selection-start-column="55" selection-end-line="36" selection-end-column="55" />
+          <folding>
+            <element signature="e#40#59#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/XML/parameter_SQRW_2019_01_23.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2376">
+          <caret line="132" column="8" selection-start-line="132" selection-start-column="8" selection-end-line="132" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LUT/lut_MG_12_06/birdview_size.txt" />
+    <entry file="file://$PROJECT_DIR$/XML/parameter_MG_2019_03_23.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="124" column="52" lean-forward="true" selection-start-line="124" selection-start-column="52" selection-end-line="124" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/opencv-3.1.0/modules/highgui/include/opencv2/highgui.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="571">
+          <caret line="335" column="17" selection-start-line="335" selection-start-column="17" selection-end-line="335" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/image_view_convert.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2561">
+          <caret line="173" column="29" lean-forward="true" selection-start-line="173" selection-start-column="29" selection-end-line="173" selection-end-column="29" />
+          <folding>
+            <element signature="e#85#116#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/XML/parameter_GL8.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="24" column="18" selection-start-line="24" selection-start-column="18" selection-end-line="24" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cam_model.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="810">
+          <caret line="45" column="26" selection-start-line="45" selection-start-column="12" selection-end-line="45" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common_parkinggo.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/XML/parameter_MG_10_31.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="522">
+          <caret line="29" column="10" selection-start-line="29" selection-start-column="10" selection-end-line="29" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/XML/parameter_MG_12_06.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2898">
+          <caret line="161" selection-start-line="161" selection-end-line="161" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/image_view_convert.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="13" selection-start-line="13" selection-end-line="16" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

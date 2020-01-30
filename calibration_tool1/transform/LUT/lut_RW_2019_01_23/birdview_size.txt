@@ -1,0 +1,4 @@
+front_pixel_height:197   front_pixel_width:512   
+rear_pixel_height:197   rear_pixel_width:512   
+left_pixel_height:512   left_pixel_width:232   
+right_pixel_height:512   right_pixel_width:232   

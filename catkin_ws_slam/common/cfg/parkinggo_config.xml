@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<opencv_storage>
+
+    <!-- 嵌入式环视拼接摄像头参数目录 -->
+    <svm_dir>"data/birdview_data"</svm_dir>
+
+    <!-- lut库配置文件 -->
+    <lut_cfg>"cfg/parameter_MG_09_18.xml"</lut_cfg>
+
+    <!-- 视频输入设备, 取值范围 S32V/CAM/VIDEO (S32V四路/USB摄像头单路/四路拼接视频文件), 默认为S32V -->
+    <device>"S32V"</device>
+
+    <!-- 测试四路视频文件 (当device取值为S32V时有效) -->
+    <input_video>"data/s32v_4c_20180808.avi"</input_video>
+
+    <!-- 是否显示调试窗口，取值范围 1/0， 默认为1 -->
+    <debug_display>1</debug_display>
+
+    <!-- 是否开启MCU通信，取值范围 1/0， 默认为1 -->
+    <mcu_enable>1</mcu_enable>
+
+    <!-- 是否开启车位检测，取值范围 1/0， 默认为1 -->
+    <parking_detection>1</parking_detection>
+
+    <!-- 是否开启车辆检测，取值范围 1/0， 默认为1 -->
+    <vehicle_detection>0</vehicle_detection>
+
+    <!-- 是否开启语义分割，取值范围 1/0， 默认为1 -->
+    <semantic_segmentation>1</semantic_segmentation>
+
+    <!-- 是否开启前摄像头SLAM，取值范围 1/0， 默认为1 -->
+    <front_slam>0</front_slam>
+
+    <!-- 是否开启后摄像头SLAM，取值范围 1/0， 默认为1 -->
+    <back_slam>0</back_slam>
+
+    <!-- 是否开启左摄像头SLAM，取值范围 1/0， 默认为1 -->
+    <left_slam>0</left_slam>
+
+    <!-- 是否开启右摄像头SLAM，取值范围 1/0， 默认为1 -->
+    <right_slam>0</right_slam>
+
+</opencv_storage>

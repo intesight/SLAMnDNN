@@ -1,0 +1,1 @@
+/usr/bin/c++  -fPIC  -std=c++11  -O0 -Wall -g -ggdb  -shared -Wl,-soname,liblut.so -o liblut.so CMakeFiles/lut.dir/cam_model.cpp.o CMakeFiles/lut.dir/image_view_convert.cpp.o  -L/home/tangshuaishuai/intesight/calibration_tool1/transform 

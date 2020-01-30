@@ -1,0 +1,4 @@
+/opt/clion-2018.3.1/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/tangshuaishuai/intesight/calibration_tool1/calibrate/cam_calib_intrinstic
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/tangshuaishuai/intesight/calibration_tool1/calibrate/cam_calib_intrinstic/cmake-build-debug

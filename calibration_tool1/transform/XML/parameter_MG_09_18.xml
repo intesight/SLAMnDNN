@@ -1,0 +1,237 @@
+<?xml version="1.0"?>
+<opencv_storage>
+
+
+<version_name> 1 </version_name>    <!-- 新版更改外参矩阵顺序 liuli[01/14] -->
+<run_directory> /home/liuli/test/calibration_tool/transform/LUT/lut_MG_918/</run_directory>
+
+<!-- 前相机内参和畸变 -->
+<front_K type_id="opencv-matrix">
+    <rows>3</rows>
+    <cols>3</cols>
+    <dt>d</dt>
+    <data>
+        3.3792790259741565e+02 0. 6.4239725949336810e+02 0.
+        3.3841002747929309e+02 3.5918443481289449e+02 0. 0. 1.</data></front_K>
+
+<front_D type_id="opencv-matrix">
+    <rows>4</rows>
+    <cols>1</cols>
+    <dt>d</dt>
+    <data>
+        3.6523302170558907e-03 3.6909351788225311e-02 3.5397690738520004e-03
+        -4.4521376162575087e-03 </data></front_D>
+
+<!-- 后相机内参和畸变 -->
+<back_K type_id="opencv-matrix">
+    <rows>3</rows>
+    <cols>3</cols>
+    <dt>d</dt>
+    <data>
+        3.3733664356341876e+02 0. 6.4033231379300491e+02 0.
+        3.3662898606261530e+02 3.5790339893251058e+02 0. 0. 1.</data></back_K>
+
+<back_D type_id="opencv-matrix">
+    <rows>4</rows>
+    <cols>1</cols>
+    <dt>d</dt>
+    <data>
+        5.8594667052770570e-03 4.9978342762804849e-02
+        -1.1087455276233508e-02 -5.2189960623545966e-04</data></back_D>
+
+<!-- 左相机内参和畸变 -->
+<left_K type_id="opencv-matrix">
+    <rows>3</rows>
+    <cols>3</cols>
+    <dt>d</dt>
+    <data>
+        3.3862265433664857e+02 0. 6.4045222393291237e+02 0.
+        3.3659723463528900e+02 3.5190133673220436e+02 0. 0. 1.</data></left_K>
+
+<left_D type_id="opencv-matrix">
+    <rows>4</rows>
+    <cols>1</cols>
+    <dt>d</dt>
+    <data>
+        -8.1433533722874134e-03 6.9047891683040624e-02
+        -1.9662597099195430e-02 9.0012291987904853e-04</data></left_D>
+
+<!-- 右相机内参和畸变 -->
+<right_K type_id="opencv-matrix">
+    <rows>3</rows>
+    <cols>3</cols>
+    <dt>d</dt>
+    <data>
+        3.3549733952714138e+02 0. 6.4364414584930512e+02 0.
+        3.3387153224101741e+02 3.4977791343692911e+02 0. 0. 1.</data></right_K>
+
+<right_D type_id="opencv-matrix">
+    <rows>4</rows>
+    <cols>1</cols>
+    <dt>d</dt>
+    <data>
+        6.8185716869402190e-03 5.2506781644085732e-02
+        -1.1456734234064752e-02 -6.1769844260934454e-04</data></right_D>
+
+
+
+<!-- 前相机外参 -->
+<front_trans type_id="opencv-matrix">
+    <rows>3</rows>
+    <cols>4</cols>
+    <dt>d</dt>
+    <data>
+        0.003443964   -0.583852495   -0.811852452 2509.730329866
+        0.999868287    0.014886858   -0.006464498  -50.094785226
+        -0.015860245    0.811723257   -0.583826864 -2616.489864616</data></front_trans>
+
+<!-- 后相机外参 -->
+<back_trans type_id="opencv-matrix">
+    <rows>3</rows>
+    <cols>4</cols>
+    <dt>d</dt>
+    <data>
+        0.021984668    0.507058172   -0.861631409 1265.212036411
+        -0.999745800    0.015461093   -0.016410041  137.588492779
+   	-0.005000918   -0.861773151   -0.507269185 -357.753993128</data></back_trans>
+
+
+<!-- 左相机外参 -->
+<left_trans type_id="opencv-matrix">
+    <rows>3</rows>
+    <cols>4</cols>
+    <dt>d</dt>
+    <data>
+        0.699227040   -0.006455913   -0.714870525 1363.294573602
+        0.028575282    0.999412488    0.018924392 -1950.680348622
+   	-0.714328355    0.033660074   -0.699000715 -113.096144009</data></left_trans>
+
+<!-- 右相机外参 -->
+<right_trans type_id="opencv-matrix">
+    <rows>3</rows>
+    <cols>4</cols>
+    <dt>d</dt>
+    <data>
+        -0.681557303    0.053634259   -0.729796553 1241.970110547
+        -0.077477202   -0.996993704   -0.000915140 1993.103297369
+    	0.727651652   -0.055918875   -0.683663772   30.066911255</data></right_trans>
+
+
+<!-- 汽车标志颜色 -->
+<B>0</B>
+<G>0</G>
+<R>0</R>
+
+<!--是否进行双线性插值-->
+<DEBUG_bilinear>0</DEBUG_bilinear>
+
+<!-- 透视矩阵偏移量  -->
+<front_matrix_rowoffset>100</front_matrix_rowoffset>
+<front_matrix_coloffset>100</front_matrix_coloffset>
+
+<rear_matrix_rowoffset>10</rear_matrix_rowoffset>
+<rear_matrix_coloffset>100</rear_matrix_coloffset>
+
+<left_matrix_rowoffset>0</left_matrix_rowoffset>
+<left_matrix_coloffset>50</left_matrix_coloffset>
+
+<right_matrix_rowoffset>70</right_matrix_rowoffset>
+<right_matrix_coloffset>0</right_matrix_coloffset>
+
+<!-- 前后左右视野 -->
+<front_word_view>8000</front_word_view>
+
+<rear_world_view>8000</rear_world_view>
+
+<left_world_view>8000</left_world_view>
+
+<right_world_view>8000</right_world_view>
+
+
+<!-- 汽车宽度 -->
+<car_world_width>1804</car_world_width>
+<!-- 汽车长度 -->
+<car_world_height>4612</car_world_height>
+<!-- 后轴中心到车前距离 -->
+<car_axle_coord>3594</car_axle_coord>
+
+
+<!-- 俯视展开左侧像素的高度-->
+<left_pixel_height>720</left_pixel_height>
+
+
+<!-- 透视标注用物理范围框,具体数值以相机为坐标原点,相机离坐标原点，车辆后轴中心在y轴上的距离 -->
+<right_cam_height_y>1928</right_cam_height_y>
+
+<left_cam_height_y>1928</left_cam_height_y>
+
+<!-- front 以相机位置位坐标原点，光心往外为y正方向,相机往右前方向为x正方向 -->
+<front_projective_lefttop_x>-1970</front_projective_lefttop_x>
+
+<front_projective_lefttop_y>965</front_projective_lefttop_y>
+
+<front_projective_leftbut_x>-1970</front_projective_leftbut_x>
+
+<front_projective_leftbut_y>365</front_projective_leftbut_y>
+
+<front_projective_righttop_x>1970</front_projective_righttop_x>
+
+<front_projective_righttop_y>965</front_projective_righttop_y>
+
+<front_projective_rightbut_x>1970</front_projective_rightbut_x>
+
+<front_projective_rightbut_y>365</front_projective_rightbut_y>
+
+<!-- rear 以相机位置位坐标原点，光心往外为y正方向,相机往右前方向为x正方向 -->
+<rear_projective_lefttop_x>-1970</rear_projective_lefttop_x>
+
+<rear_projective_lefttop_y>965</rear_projective_lefttop_y>
+
+<rear_projective_leftbut_x>-1970</rear_projective_leftbut_x>
+
+<rear_projective_leftbut_y>365</rear_projective_leftbut_y>
+
+<rear_projective_righttop_x>1970</rear_projective_righttop_x>
+
+<rear_projective_righttop_y>965</rear_projective_righttop_y>
+
+<rear_projective_rightbut_x>1970</rear_projective_rightbut_x>
+
+<rear_projective_rightbut_y>365</rear_projective_rightbut_y>
+
+<!-- left 以相机位置位坐标原点，光心往外为x正方向,相机往车前方向为y正方向 -->
+<left_projective_lefttop_x>1050</left_projective_lefttop_x>
+
+<left_projective_lefttop_y>-1050</left_projective_lefttop_y>
+
+<left_projective_leftbut_x>450</left_projective_leftbut_x>
+
+<left_projective_leftbut_y>-1050</left_projective_leftbut_y>
+
+<left_projective_righttop_x>1050</left_projective_righttop_x>
+
+<left_projective_righttop_y>1760</left_projective_righttop_y>
+
+<left_projective_rightbut_x>450</left_projective_rightbut_x>
+
+<left_projective_rightbut_y>1760</left_projective_rightbut_y>
+
+<!-- right 以相机位置坐标原点，光心往外为x正方向,相机往车前方向为y正方向 -->
+    <right_projective_lefttop_x>1050</right_projective_lefttop_x>
+
+    <right_projective_lefttop_y>1070</right_projective_lefttop_y>
+
+    <right_projective_leftbut_x>450</right_projective_leftbut_x>
+
+    <right_projective_leftbut_y>1070</right_projective_leftbut_y>
+
+    <right_projective_righttop_x>1050</right_projective_righttop_x>
+
+    <right_projective_righttop_y>-1050</right_projective_righttop_y>
+
+    <right_projective_rightbut_x>450</right_projective_rightbut_x>
+
+    <right_projective_rightbut_y>-1050</right_projective_rightbut_y>
+
+
+</opencv_storage>

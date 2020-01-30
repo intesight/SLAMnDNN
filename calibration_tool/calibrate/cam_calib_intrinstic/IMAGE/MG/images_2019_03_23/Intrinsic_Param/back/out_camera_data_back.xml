@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<opencv_storage>
+<calibration_time>"2019年03月26日 星期二 10时09分26秒"</calibration_time>
+<nr_of_frames>20</nr_of_frames>
+<image_width>1280</image_width>
+<image_height>720</image_height>
+<board_width>10</board_width>
+<board_height>6</board_height>
+<square_size>23.</square_size>
+<fix_aspect_ratio>1.</fix_aspect_ratio>
+<!-- flags: +fix_skew +recompute_extrinsic -->
+<flags>14</flags>
+<fisheye_model>1</fisheye_model>
+<camera_matrix type_id="opencv-matrix">
+  <rows>3</rows>
+  <cols>3</cols>
+  <dt>d</dt>
+  <data>
+    3.4044908082268967e+02 0. 6.3944366972546447e+02 0.
+    3.3933055196042130e+02 3.5837166991701832e+02 0. 0. 1.</data></camera_matrix>
+<distortion_coefficients type_id="opencv-matrix">
+  <rows>4</rows>
+  <cols>1</cols>
+  <dt>d</dt>
+  <data>
+    -1.3880622214876197e-02 7.5602232154208568e-02
+    -2.4185061347040335e-02 1.7629589390286834e-03</data></distortion_coefficients>
+<avg_reprojection_error>2.3259155285996019e-01</avg_reprojection_error>
+<per_view_reprojection_errors type_id="opencv-matrix">
+  <rows>20</rows>
+  <cols>1</cols>
+  <dt>f</dt>
+  <data>
+    2.20963031e-01 1.94447607e-01 2.04730317e-01 2.06641957e-01
+    2.01652631e-01 2.35216185e-01 2.48732954e-01 1.76117882e-01
+    2.23666474e-01 1.96284786e-01 1.83032990e-01 2.49864802e-01
+    3.59008908e-01 2.42291287e-01 2.48762012e-01 2.65437365e-01
+    2.48293340e-01 2.57732600e-01 2.14439318e-01 2.08256677e-01</data></per_view_reprojection_errors>
+</opencv_storage>

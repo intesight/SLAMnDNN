@@ -1,0 +1,13 @@
+#!/usr/bin/env xdg-open
+
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=true
+Icon[zh_CN]=/home/intesight/qt_0709/apa_qt_demo1_201807091505/radar_img/status_run.png
+Name[zh_CN]=Start_ParkingGo
+Exec=/home/intesight/start_all.sh
+Comment[zh_CN]=Start ParkingGo
+Name=Start_ParkingGo
+Comment=Start ParkingGo
+Icon=/home/intesight/qt_0709/apa_qt_demo1_201807091505/radar_img/status_run.png
